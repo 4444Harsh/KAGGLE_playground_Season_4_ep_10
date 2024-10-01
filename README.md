@@ -70,7 +70,7 @@ Model performance was evaluated using the following metrics:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/loan-approval-prediction.git
+   git clone https://github.com/4444Harsh/KAGGLE_playground_Season_4_ep_10.git
    ```
 2. Install the necessary libraries:
    ```bash
